@@ -1,0 +1,28 @@
+{
+    "displayName" : "26.9 Dying Is Your Latest Fashion",
+    "fm" : 26.9,
+    "volume" : 0.3,
+    "icon" : "UIIcon.alcohol_absynth",
+    "customIcon": {
+        "inkAtlasPath": "base\\icon\\diylf.inkatlas",
+        "inkAtlasPart": "icon_part",
+        "useCustom": true
+    },
+    "streamInfo": {
+        "streamURL": "https://radio.garden/api/ara/content/listen/TP8NDBv7/channel.mp3",
+        "isStream": false
+    },
+    "order": [
+        "The Webs We Weave.mp3",
+        "When I Go Out, I Want To Go Out On A Chariot Of Fire.mp3",
+        "Situations.mp3",
+        "The Guillotine.mp3",
+        "Reverse This Curse.mp3",
+        "Cellar Door.mp3",
+        "There's No Sympathy for the Dead.mp3",
+        "My Apocalypse.mp3",
+        "Friends And Alibis.mp3",
+        "Not Good Enough For Truth In Cliché.mp3",
+        "The Day I Left The Womb.mp3"
+    ]
+}
